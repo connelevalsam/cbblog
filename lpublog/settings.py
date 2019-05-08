@@ -126,3 +126,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 MEDIA_URL = '/media/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+
+# PythonAnywhere API Key:
+# c63ca7ef070b3d6b350791144bc63f19701b14e1
